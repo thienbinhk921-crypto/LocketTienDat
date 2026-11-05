@@ -619,7 +619,7 @@ if (ua.includes("Locket")) {
                         caption: {
                             background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] },
                             max_lines: 1,
-                            text: "nguyencongan",
+                            text: "🤳🏻Hào quang nhân vật chính",
                             text_color: "#183153",
                             type: "static_content"
                         }
@@ -643,7 +643,7 @@ if (ua.includes("Locket")) {
                         caption: {
                             background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] },
                             max_lines: 1,
-                            text: "Cu 🐎",
+                            text: "🐎Ngựa chúa",
                             text_color: "#633B24",
                             type: "static_content"
                         }
@@ -732,7 +732,7 @@ if (ua.includes("Locket")) {
                             background: { colors: ["#ECEFF1", "#B3E5FC"] },
                             icon: { data: "📷", type: "emoji" },
                             max_lines: 1,
-                            text: "Locket Time!",
+                            text: "Chụp cái nè",
                             text_color: "#000000E6",
                             type: "static_content"
                         }
